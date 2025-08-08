@@ -1,6 +1,7 @@
 # scrape_amazon_reviews_all_and_filtered.py
 
 from google_play_scraper import Sort, reviews
+from app_store_scraper import AppStore
 import pandas as pd
 
 # App: Amazon Shopping
